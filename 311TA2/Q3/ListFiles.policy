@@ -1,0 +1,6 @@
+grant
+{
+   permission java.io.FilePermission "C:${/}Program Files${/}Java", "read";
+   permission java.io.FilePermission "C:${/}Program Files${/}Java${/}-", "read";
+};
+
