@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="30"
+        android:key="text_size"
+        android:summary="Size of TextView"
+        android:title="Text size" />
+    <ListPreference
+        android:defaultValue="Black"
+        android:entries="@array/color_names"
+        android:entryValues="@array/color_names"
+        android:key="text_color"
+        android:summary="Color of the text"
+        android:title="Text Color" />
+    <ListPreference
+        android:defaultValue="White"
+        android:entries="@array/color_names"
+        android:entryValues="@array/color_names"
+        android:key="background_color"
+        android:summary="Background color of TextView"
+        android:title="Background Color" />
+</PreferenceScreen>

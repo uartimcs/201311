@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="my_message_border">#C0EEB0</color>
+    <color name="my_message_bg">#D0FFC0</color>
+    <color name="other_message_border">#DDDDDD</color>
+    <color name="other_message_bg">#FFFFFF</color>
+    <color name="message_fragment_bg">#EEEEEE</color>
+</resources>

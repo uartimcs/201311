@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <padding
+        android:bottom="@dimen/message_padding_vertical"
+        android:left="@dimen/message_padding_horizontal"
+        android:right="@dimen/message_padding_horizontal"
+        android:top="@dimen/message_padding_vertical" />
+    <stroke
+        android:width="@dimen/message_border"
+        android:color="@color/other_message_border" />
+    <solid android:color="@color/other_message_bg" />
+    <corners
+        android:radius="@dimen/message_corner"
+        android:topLeftRadius="0dp" />
+</shape>

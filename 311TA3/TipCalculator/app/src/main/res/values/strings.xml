@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_amount">Bill Amount:</string>
+    <string name="clear">Clear</string>
+    <string name="tip_percent">Tip (%):</string>
+    <string name="percent_5">5%</string>
+    <string name="percent_10">10%</string>
+    <string name="percent_15">15%</string>
+    <string name="percent_20">20%</string>
+    <string name="number_of_people">Number of people:</string>
+    <string name="people_1">1</string>
+    <string name="people_2">2</string>
+    <string name="people_3">3</string>
+    <string name="people_4">4</string>
+    <string name="people_5">5</string>
+    <string name="total_amount">Total Bill Amount:</string>
+    <string name="total_per_person">Total Per Person:</string>
+</resources>

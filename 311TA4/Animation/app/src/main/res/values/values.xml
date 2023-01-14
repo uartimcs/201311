@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="color_names">
+        <item>Black</item>
+        <item>White</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Cyan</item>
+        <item>Blue</item>
+        <item>Magenta</item>
+    </string-array>
+
+    <string name="text_color_key">text_color</string>
+    <string name="text_color_default">Black</string>
+    <string name="bg_color_key">background_color</string>
+    <string name="bg_color_default">White</string>
+    <string name="text_size_key">text_size</string>
+    <string name="text_size_default">30</string>
+</resources>
